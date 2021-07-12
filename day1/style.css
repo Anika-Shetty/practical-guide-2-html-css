@@ -1,0 +1,31 @@
+#article-title {
+  text-align: center;
+}
+
+#article-title h1 {
+  font-family: 'times new roman', georgia;  
+}
+
+#author {
+  display: flex;
+}
+
+#author-photo {
+  display: inline-block;
+}
+
+#author-photo img {
+  width: 80px;
+}
+
+#author-info {
+  margin-left: 10px;
+}
+
+#author-info-name {
+  font-weight: bold;
+}
+
+#author-info-bio {
+  font-size: .95em;
+}
